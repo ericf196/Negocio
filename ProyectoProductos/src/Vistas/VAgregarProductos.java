@@ -388,6 +388,8 @@ public class VAgregarProductos extends JDialog {
 				String datos []={codigoProducto,nombre,Descripcion,numeroUnidades,precio,stop};
 				this.modelo.addRow(datos);
 				System.out.println("hola");
+				System.out.println("hola1");
+				
 			}
 			
 		}
